@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf403/project/FinalTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf403/project/Programm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf403/project/Trip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf403/project/enum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf403/project/firstproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf403/project/game-of-life" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf403/project/matrix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf403/project/messenger" vcs="Git" />
+  </component>
+</project>
