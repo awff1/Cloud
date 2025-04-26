@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5468a406-4f8c-4fe7-83c5-b5a0385a19ed" name="Changes" comment="some project moved to main folder of projects" />
+    <list default="true" id="5468a406-4f8c-4fe7-83c5-b5a0385a19ed" name="Changes" comment="some project moved to main folder of projects">
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/HomeWorks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/src/main/java/Collecs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/src/main/java/Icollections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/src/main/java/List403.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/src/main/java/List403Impl.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,36 +36,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "awff1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;awff1&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/awff1/Cloud.git",
-    "accountId": "67fb50ab-693a-4d7f-889c-34a0991ffb5b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/awff1/Cloud.git&quot;,
+    &quot;accountId&quot;: &quot;67fb50ab-693a-4d7f-889c-34a0991ffb5b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ufPVr5XkpaEx0Q6NxRRNJvNW6R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Programming"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programming&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Programming\inf403\project" />
