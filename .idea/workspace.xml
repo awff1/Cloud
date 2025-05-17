@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5468a406-4f8c-4fe7-83c5-b5a0385a19ed" name="Changes" comment="some project moved to main folder of projects">
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/HomeWorks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/src/main/java/Collecs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/src/main/java/Icollections.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/Collectionsdz/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/src/main/java/List403.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf403/HomeWorks/List403/src/main/java/List403Impl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf403/project/Trip" beforeDir="false" afterPath="$PROJECT_DIR$/inf403/project/Trip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +75,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742636986127</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some project moved to main folder of projects">
+      <option name="closed" value="true" />
+      <created>1745663203598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745663203598</updated>
+    </task>
+    <task id="LOCAL-00004" summary="some project moved to main folder of projects">
+      <option name="closed" value="true" />
+      <created>1745663226600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745663226600</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
